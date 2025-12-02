@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56dce1f8-6be6-4923-b5e6-f34ceeadd305" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseRecorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseRecorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Desktop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/MovieDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/MovieDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/RemoteStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/RemoteStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/Model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/Model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Recorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/HistogramBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/HistogramBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +41,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\kata6\src\main\java\software\ulpgc\kata5\application\Stream" />
+      <recent name="C:\Users\Usuario\IdeaProjects\kata6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
