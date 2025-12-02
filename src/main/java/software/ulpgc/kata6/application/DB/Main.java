@@ -2,7 +2,7 @@ package software.ulpgc.kata6.application.DB;
 
 import software.ulpgc.kata6.application.Desktop;
 import software.ulpgc.kata6.application.MovieDeserializer;
-import software.ulpgc.kata6.application.Stream.RemoteStore;
+import software.ulpgc.kata6.application.RemoteStore;
 import software.ulpgc.kata6.architecture.Model.Movie;
 import software.ulpgc.kata6.architecture.viewmodel.Histogram;
 import software.ulpgc.kata6.architecture.viewmodel.HistogramBuilder;

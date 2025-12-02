@@ -1,4 +1,4 @@
-package software.ulpgc.kata6.application.Stream;
+package software.ulpgc.kata6.application;
 
 import software.ulpgc.kata6.architecture.Model.Movie;
 import software.ulpgc.kata6.architecture.io.Store;
