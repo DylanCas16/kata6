@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56dce1f8-6be6-4923-b5e6-f34ceeadd305" name="Changes" comment="start kata" />
+    <list default="true" id="56dce1f8-6be6-4923-b5e6-f34ceeadd305" name="Changes" comment="database logic">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/webservice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/webservice/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764765571337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="database logic">
+      <option name="closed" value="true" />
+      <created>1764766043300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764766043300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +102,7 @@
     <MESSAGE value="kata 6 finish" />
     <MESSAGE value="Stream and db" />
     <MESSAGE value="start kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="start kata" />
+    <MESSAGE value="database logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="database logic" />
   </component>
 </project>
