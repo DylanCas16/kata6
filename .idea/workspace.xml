@@ -4,30 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56dce1f8-6be6-4923-b5e6-f34ceeadd305" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseRecorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseRecorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/DatabaseStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/DB/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Desktop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/MovieDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/MovieDeserializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/RemoteStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/Stream/RemoteStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/Model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/Model/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Recorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/io/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/Histogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/HistogramBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/architecture/viewmodel/HistogramBuilder.java" afterDir="false" />
+    <list default="true" id="56dce1f8-6be6-4923-b5e6-f34ceeadd305" name="Changes" comment="Created webservice and database logic">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/webservice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/application/webservice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,10 +32,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Dylan/IdeaProjects/kata6/src/main/java/software/ulpgc/kata6/application/webservice"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dylan\IdeaProjects\kata6\src\main\java\software\ulpgc\kata6\application\webservice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\IdeaProjects\kata6\src\main\java\software\ulpgc\kata5\application\Stream" />
       <recent name="C:\Users\Usuario\IdeaProjects\kata6" />
@@ -60,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764674236317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created webservice and database logic">
+      <option name="closed" value="true" />
+      <created>1764764024219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764764024219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created webservice and database logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created webservice and database logic" />
   </component>
 </project>
